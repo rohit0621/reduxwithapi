@@ -1,6 +1,6 @@
 # Fetching data from API in React-Redux app
 
-![reduxwithapi](https://user-images.githubusercontent.com/63094930/115686245-a2ef6b00-a376-11eb-941f-e3a9befeef60.gif)
+![reduxwithapi ](https://user-images.githubusercontent.com/63094930/115686976-5ce6d700-a377-11eb-8604-75d8a2d34bb7.gif)
 
 
 Getting Started with Create React App
